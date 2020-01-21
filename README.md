@@ -1,7 +1,9 @@
 # Radio-Projects
 # Calendar-bot.py
 • This tool was created to ease the interfacing among our Google Sheets studio schedules, Google Calendar studio schedules, and the Joan display boards in front of each studio.
+
   o The Joan boards require schedule information in the form of a Google Calendar, but programming and training need Google Sheet             schedules. The sheets allow ease of access to information, are easier to manipulate, and allow access to edit history to view schedule     changes, among other benefits.
+  
 • In essence, this program translates Google Sheet information into Google Calendar information, which is then read and displayed by the Joan boards.
 # Slack_Bot.py
 • Tasked with notifying the training department Slack groupchat if someone has signed up for volunteer training who has not yet been contacted.
